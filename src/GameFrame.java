@@ -1,2 +1,4 @@
-public class GameFrame {
+import javax.swing.*;
+
+public class GameFrame extends JFrame {
 }
